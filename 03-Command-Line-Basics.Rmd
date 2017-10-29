@@ -73,9 +73,13 @@ keys.
 ### Exercises
 
 1. Print your name to the terminal.
+```{r, engine='bash', eval=FALSE}
 echo 'Basilio'
+```
 2. Clear your terminal after completing #1.
+```{r, engine='bash', eval=FALSE}
 clear
+```
 
 ## Navigating the Command Line
 
